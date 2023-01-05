@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+@media screen and (min-width: 768px) {
+  #screen {
+    width: 70% !important;
+    /* background-color: olive !important; */
+  }
+}
